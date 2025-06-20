@@ -25,4 +25,4 @@ This repository contains the cryptographic proof (SHA256) and timestamps of reco
 
 ---
 🔐 All files timestamped using [OpenTimestamps](https://opentimestamps.org)
-🧠 Learn more at [aicitationseo.com](https://aicitationseo.com)
+🧠 
