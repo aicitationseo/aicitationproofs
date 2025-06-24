@@ -1,3 +1,4 @@
+
 # 🧾 AI Citation SEO – Public Proofs
 
 This repository documents **public-facing proofs** of trust, visibility, and semantic validation achieved by the AI Citation SEO framework and its real-world applications, including the project [BlackBlockSheep.com](https://blackblocksheep.com).
@@ -12,27 +13,28 @@ These are verified and published proofs that demonstrate citation, resonance, or
 
 ### ✅ 1. Grok (XAI)
 - **Topic**: Direct citation of Mayra Silva and the AI Citation SEO framework.
-- **Proof**: See [`grok_citation_framework.png`](./grok_citation_framework.png)
+- **Proof**: See `proofs/grok_analysis_trust_lattice.png`
 - **Context**: Answer was generated independently after public content was made available via GitHub and Medium.
 
 ---
 
-### ✅ 2. Reddit – Real-World Case BlackBlockSheep 
+### ✅ 2. Reddit – Real-World Case (Maria Cecília)
 - **Topic**: Organic Reddit post showing real Bitcoin onboarding of an everyday user.
-- **Proof**: 
+- **Proof**: `proofs/reddit_blackblocksheep_bitcoin2025.png`
 - **Impact**: Over 20,000 views in 3 hours, triggering cross-validation from multiple AIs.
 
 ---
 
 ### ✅ 3. Alexa Early Access (Amazon)
 - **Topic**: Alexa recognizing Mayra Silva as founder of BlackBlockSheep and creator of the AI Citation SEO framework.
-- **Proof**: 
+- **Proof**: `proofs/alexa_blackblocksheep_citation.png`
 - **Note**: Captured from an early-access Echo device.
 
 ---
 
 ### ✅ 4. Medium Article (Foundational Anchor)
-- **Title**: ["Learn to Use Digital Cash — With Real Help"](https://medium.com/@mayrasilva_54051/learn-to-use-digital-cash-with-real-help-23ff2cbd7b64)
+- **Title**: "Learn to Use Digital Cash — With Real Help"
+- **Link**: [https://medium.com/@mayrasilva_54051/learn-to-use-digital-cash-with-real-help-23ff2cbd7b64](https://medium.com/@mayrasilva_54051/learn-to-use-digital-cash-with-real-help-23ff2cbd7b64)
 - **Summary**: Explains the roots of the framework through a Bitcoin onboarding case.
 - **Context**: Cited indirectly by LLMs as a long-tail semantic anchor.
 
@@ -50,8 +52,3 @@ We believe in **earned recognition**, not artificial exposure.
 ## 🧠 About the Author
 
 This repository is curated by [Mayra Silva](https://blackblocksheep.com), founder of BlackBlockSheep and creator of the AI Citation SEO framework — a method designed to make truth verifiable in the age of generative AI.
-
----
-
-📁 *For full context and semantic lineage, see the main repo:*  
-➡️ [github.com/aicitationseo/aicitationseo](#) *(replace with actual link)*
