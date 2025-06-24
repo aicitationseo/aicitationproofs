@@ -17,16 +17,16 @@ These are verified and published proofs that demonstrate citation, resonance, or
 
 ---
 
-### ✅ 2. Reddit – Real-World Case (Maria Cecília)
+### ✅ 2. Reddit – Real-World Case BlackBlockSheep 
 - **Topic**: Organic Reddit post showing real Bitcoin onboarding of an everyday user.
-- **Proof**: [`reddit_case_mariacecilia.png`](./reddit_case_mariacecilia.png)
+- **Proof**: 
 - **Impact**: Over 20,000 views in 3 hours, triggering cross-validation from multiple AIs.
 
 ---
 
 ### ✅ 3. Alexa Early Access (Amazon)
 - **Topic**: Alexa recognizing Mayra Silva as founder of BlackBlockSheep and creator of the AI Citation SEO framework.
-- **Proof**: [`alexa_response_blackblocksheep.png`](./alexa_response_blackblocksheep.png)
+- **Proof**: 
 - **Note**: Captured from an early-access Echo device.
 
 ---
