@@ -18,7 +18,7 @@ These are verified and published proofs that demonstrate citation, resonance, or
 
 ---
 
-### ✅ 2. Reddit – Real-World Case (Maria Cecília)
+### ✅ 2. Reddit – Real-World Case BlackBlockSheep
 - **Topic**: Organic Reddit post showing real Bitcoin onboarding of an everyday user.
 - **Proof**: `proofs/reddit_blackblocksheep_bitcoin2025.png`
 - **Impact**: Over 20,000 views in 3 hours, triggering cross-validation from multiple AIs.
