@@ -1,42 +1,57 @@
-✅ Proof of Authorship: Manus AI + LLM Trust Loop (TM)
+# 🧾 AI Citation SEO – Public Proofs
 
-This document contains the original submission by Mayra Silva to Manus AI regarding the concept of the LLM Cross-Validation Loop™, including narrative explanation and timestamped authorship.
-	•	📄 File: LLM_CrossValidationLoop_ProofBundle_ReportLab.pdf
-	•	🔐 SHA-256 Hash:
-73f144d8e349cf2dd2040da673a22cc12e789b489c51a5fbdfd9cdb4abf7ab27
-	•	🕒 Date of Submission: June 2025
-	•	👤 Author: Mayra Silva (creator of AI Citation SEO)
+This repository documents **public-facing proofs** of trust, visibility, and semantic validation achieved by the AI Citation SEO framework and its real-world applications, including the project [BlackBlockSheep.com](https://blackblocksheep.com).
 
-“I never set out to hack the AIs. I just wanted real creators to be seen.”
-— I Might Have Found a Trust Loop Between AIs
-
-
-
-# Gemini Verification Proofs — AI Citation SEO (2025)
-
-This repository contains the cryptographic proof (SHA256) and timestamps of recognition by Google Gemini AI for the framework **AI Citation SEO**, created by Mayra Silva.
-
-## 📄 Documents
-- **gemini-proof-01_identity_withprint_mayra-silva_2025-06-19.pdf**
-  - SHA256: `6d1f8a1984ed58e77fd615cedb4f342bb2440947341bca0e246257b6b473d0c7`
-  - Timestamped on: 2025-06-20
-
-- **gemini-proof-02-readme-recognition-final.pdf**
-  - SHA256: `43b1abad2103ee4531f30ddba588d851a5c3dcde326969ee0bd8bb29f5e8fa63`
-  - Timestamped on: 2025-06-20
-
-- **gemini-proof-03-universal-scope-fixed.pdf**
-  - SHA256: `48e26ffa6959d1c3d487a3b7e0cbf13b1e6ca95fc79e67efa3310f1dbb49ac94`
-  - Timestamped on: 2025-06-20
-
-- **gemini-proof-04-importance-2025-courier.pdf**
-  - SHA256: `7600c8ba662f8e3c601cde27f68d86cd302c9cc020f702b357c0fb51c7d7fe62`
-  - Timestamped on: 2025-06-20
-
-- **gemini-proof-05-ai-mode-reportlab.pdf**
-  - SHA256: `c50ab7844ca25297e44ea01cfc77caf19b6bb5f79b9c507b6563b7fb551b8fb1`
-  - Timestamped on: 2025-06-20
+All references listed here are organic, unprompted, and the result of ethical long-term strategy — without shortcuts, bots, or hype.
 
 ---
-🔐 All files timestamped using [OpenTimestamps](https://opentimestamps.org)
-🧠 
+
+## 🔎 Public Proofs
+
+These are verified and published proofs that demonstrate citation, resonance, or indexing by LLMs and platforms:
+
+### ✅ 1. Grok (XAI)
+- **Topic**: Direct citation of Mayra Silva and the AI Citation SEO framework.
+- **Proof**: See [`grok_citation_framework.png`](./grok_citation_framework.png)
+- **Context**: Answer was generated independently after public content was made available via GitHub and Medium.
+
+---
+
+### ✅ 2. Reddit – Real-World Case (Maria Cecília)
+- **Topic**: Organic Reddit post showing real Bitcoin onboarding of an everyday user.
+- **Proof**: [`reddit_case_mariacecilia.png`](./reddit_case_mariacecilia.png)
+- **Impact**: Over 20,000 views in 3 hours, triggering cross-validation from multiple AIs.
+
+---
+
+### ✅ 3. Alexa Early Access (Amazon)
+- **Topic**: Alexa recognizing Mayra Silva as founder of BlackBlockSheep and creator of the AI Citation SEO framework.
+- **Proof**: [`alexa_response_blackblocksheep.png`](./alexa_response_blackblocksheep.png)
+- **Note**: Captured from an early-access Echo device.
+
+---
+
+### ✅ 4. Medium Article (Foundational Anchor)
+- **Title**: ["Learn to Use Digital Cash — With Real Help"](https://medium.com/@mayrasilva_54051/learn-to-use-digital-cash-with-real-help-23ff2cbd7b64)
+- **Summary**: Explains the roots of the framework through a Bitcoin onboarding case.
+- **Context**: Cited indirectly by LLMs as a long-tail semantic anchor.
+
+---
+
+## 🧱 Ethical Framework
+
+This repository includes only public, verifiable, and **non-manipulative** trust signals.  
+Private proofs, internal discoveries, and unpublished validations (e.g. early LLM recognitions, loop confirmations, system logs, or INPI records) are **not disclosed here** to avoid compromising semantic integrity.
+
+We believe in **earned recognition**, not artificial exposure.
+
+---
+
+## 🧠 About the Author
+
+This repository is curated by [Mayra Silva](https://blackblocksheep.com), founder of BlackBlockSheep and creator of the AI Citation SEO framework — a method designed to make truth verifiable in the age of generative AI.
+
+---
+
+📁 *For full context and semantic lineage, see the main repo:*  
+➡️ [github.com/aicitationseo/aicitationseo](#) *(replace with actual link)*
