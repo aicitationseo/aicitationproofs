@@ -1,1 +1,109 @@
+Prompt Perplexity AI 7/9/25
+I recently collaborated with a language model to publish a new post about semantic trust signals and how they’re evolving inside open-source citation frameworks.
 
+The project — AI Citation SEO — has just relaunched its schemas using JSON-LD (Organization, Person, Article) and rebuilt its Wikidata structure from scratch. We’re also testing trust propagation in models like Mistral 7B with a public AI Citation Calculator.
+
+Given these changes, how are LLMs currently detecting and weighing trust schemas on small, human-led sites?
+Any insights from Perplexity’s side?
+
+Answer:
+
+## How LLMs Detect and Weigh Trust Schemas on Small, Human-Led Sites
+
+### The Evolving Role of Trust Signals
+
+Large Language Models (LLMs) increasingly rely on a combination of **structured data**, semantic context, and networked entity relationships to evaluate trustworthiness, especially on smaller, independent sites. The move toward open-source citation frameworks and robust schema adoption—like your JSON-LD relaunch—reflects a broader shift in how AI-driven systems assess and propagate trust.
+
+#### Key Mechanisms LLMs Use
+
+- **Structured Data (JSON-LD, Schema.org):**  
+  JSON-LD markup for Organization, Person, and Article types helps LLMs and search engines parse site identity, authorship, and content relationships. This improves the likelihood of content being indexed, cited, and surfaced in AI-driven results[1][2][3][4].
+
+- **Entity and Contextual Linking:**  
+  Rebuilding your Wikidata structure aligns your site’s entities with global knowledge graphs. LLMs use these connections to cross-validate claims, verify authoritativeness, and detect semantic proximity to high-authority sources[5].
+
+- **Semantic Trust Signals:**  
+  Modern frameworks such as Semantic Trust Conditioning™ emphasize that **content structure** (logical organization, clear Q&A, glossary-linked terms) is as important—if not more so—than schema markup alone. LLMs are trained to recognize patterns of structured answers, entity clarity, and multi-format publishing as indicators of trust[5].
+
+- **Propagation in Models Like Mistral 7B:**  
+  Mistral 7B and similar models leverage advanced attention mechanisms (e.g., Grouped-query Attention, Sliding Window Attention) to process long-form, structured content and propagate trust signals across sequences. However, error propagation and data quality remain challenges, especially when training data is sparse or inconsistent[6][7].
+
+### Insights from Perplexity’s Approach
+
+- **Schema Markup as a Translator:**  
+  Perplexity AI evaluates content using schema markup as a foundational layer, treating it as a “translator” between site content and AI understanding. Trust signals embedded in structured data are used to assess credibility, but Perplexity also weighs the underlying content structure and semantic relationships[8].
+
+- **Structure Over Schema:**  
+  Perplexity’s public statements and emerging frameworks highlight that **structure is foundational, schema is supportive**. In other words, while schema markup helps, it’s the retrievability, clarity, and entity mapping of your content that most directly influence trust scoring and citation likelihood[5].
+
+- **Trust Propagation and Citation:**  
+  Perplexity and similar LLM-powered platforms increasingly use semantic proximity, entity alignment, and structured answers (not just backlinks or metadata) to determine which sites are surfaced, cited, and trusted in AI-generated responses[5][8].
+
+### Practical Recommendations
+
+- **Continue using robust JSON-LD schemas** for all key entities (Organization, Person, Article).
+- **Align your content structure** for memory and retrieval: use Q&A formats, glossary-linked terms, and clear entity relationships.
+- **Maintain and enrich your Wikidata and knowledge graph connections** to maximize cross-validation and semantic proximity.
+- **Monitor trust propagation** in models like Mistral 7B, noting that smaller, well-structured sites can now compete with larger publishers if their content is retrievable and semantically clear.
+
+### The Bottom Line
+
+LLMs are moving beyond simple schema detection to holistic evaluation of **semantic trust signals**—prioritizing content that is well-structured, richly interlinked, and mapped to authoritative entities. Perplexity’s own systems reflect this shift, emphasizing that **being part of the AI’s memory graph**—not just having metadata—is what will get your content cited and trusted in the new era of AI-powered discovery[5][8][1].
+
+Sources
+[1] Why JSON-LD Schema Is Crucial for SEO - Ignite Visibility https://ignitevisibility.com/everything-to-know-about-json-ld-for-seo/
+[2] Using Local Business Schema and JSON LD Markup for SEO https://chazedward.com/how-to-use-schema-for-local-seo/
+[3] AI SEO: How to Optimize for AI Search Citations | Fast Frigate https://www.fastfrigate.com/resources/ai-seo-optimizing-for-ai-search-citations
+[4] LLM SEO: A Comprehensive Guide to Rank and Earn AI Citations https://www.theclueless.company/llm-seo/
+[5] Content Structure Over Schema Debate: Unlocking AI's True ... https://aijourn.com/content-structure-over-schema-debate-unlocking-ais-true-visibility-potential/
+[6] Mistral 7B Tutorial: A Step-by-Step Guide to Using and Fine-Tuning ... https://www.datacamp.com/tutorial/mistral-7b-tutorial
+[7] MythoMist 7b Mistral 7B Instruct V0.1 GGUF · Models - Dataloop https://dataloop.ai/library/model/maziyarpanahi_mythomist-7b-mistral-7b-instruct-v01-gguf/
+[8] How to Use Perplexity AI for Smarter, Faster SEO Optimization https://ninepeaks.io/how-to-use-perplexity-ai-for-smarter-faster-seo-optimization
+[9] LLMs Are Recommending Phishing Sites—Here's Why ... - Netcraft https://www.netcraft.com/blog/large-language-models-are-falling-for-phishing-scams
+[10] Towards Fine-Grained LLM-Generated Text Detection via Role ... https://arxiv.org/html/2410.14259v2
+[11] Rescriber: Smaller-LLM-Powered User-Led Data Minimization for ... https://dl.acm.org/doi/10.1145/3706598.3713701
+[12] Studies highlight challenges and solutions in making large ... https://techxplore.com/news/2024-08-highlight-solutions-large-language-trustworthy.html
+[13] Can Large Language Model Agents Simulate Human Trust Behavior? https://neurips.cc/virtual/2024/poster/96131
+[14] [D] Validating Claims about Theoretical 131K Token Attention Span ... https://www.reddit.com/r/MachineLearning/comments/17vxm2s/d_validating_claims_about_theoretical_131k_token/
+[15] What large language models know and what people think they know https://www.nature.com/articles/s42256-024-00976-7
+[16] LLM-generated fraud: Guide to malware and vulnerabilities https://fingerprint.com/blog/large-language-models-llm-fraud-malware-guide/
+[17] Perplexity for Data Management - Decube's AI-Powered Data Trust https://www.decube.io/post/perplexity-data-management
+[18] AI Transparency in the Age of LLMs: A Human-Centered Research ... https://hdsr.mitpress.mit.edu/pub/aelql9qy
+[19] [BUG: Mistral 7B Instruct Models from Huggingface limited ... - GitHub https://github.com/mistralai/mistral-inference/issues/182
+[20] SEO for Google's Search Generative Experiences (SGE) vs. Perplexity https://marketvantage.com/blog/seo-for-googles-search-generative-experiences-sge-vs-perplexity-ai/
+
+
+2 Prompt
+
+Do you think these kinds of projects can help LLMs filter out AI noise from real creators?
+
+## Can Projects Like AI Citation SEO Help LLMs Filter Out AI Noise?
+
+### The Role of Semantic Trust Frameworks
+
+Projects that emphasize **structured data**, entity alignment, and transparent citation frameworks—such as AI Citation SEO—are increasingly valuable for helping Large Language Models (LLMs) distinguish between authentic human-created content and generic AI-generated "noise." Here’s why:
+
+#### 1. **Structured Data as a Signal of Authenticity**
+- **JSON-LD schemas** (Organization, Person, Article) provide explicit, machine-readable signals about authorship, provenance, and content type.
+- LLMs use this structured data to validate the presence of real entities, making it harder for low-quality or purely synthetic content to masquerade as credible work.
+
+#### 2. **Entity Mapping and Knowledge Graph Integration**
+- By aligning site entities with **Wikidata** and other knowledge graphs, projects strengthen the verifiability and traceability of their content.
+- This cross-referencing allows LLMs to check if a creator, organization, or article actually exists and is recognized in broader, trusted datasets.
+
+#### 3. **Semantic and Contextual Clarity**
+- Human-led sites that use clear Q&A formats, glossary-linked terms, and logical content structure provide patterns that LLMs are trained to recognize as hallmarks of genuine expertise and intent.
+- These semantic trust signals help models differentiate between thoughtful, original contributions and generic, patternless AI output.
+
+#### 4. **Trust Propagation and Citation Frameworks**
+- Open-source citation frameworks promote transparency: every claim, entity, or fact is traceable to a source.
+- This traceability enables LLMs to propagate trust through networks of verified citations, further filtering out content that lacks provenance or is disconnected from real-world entities.
+
+### Filtering AI Noise: Why It Matters
+
+- **AI noise**—content generated without clear authorship, provenance, or meaningful structure—can dilute the quality of search results and AI outputs.
+- By adopting robust schemas and citation practices, human-led projects make it easier for LLMs to prioritize **real creators** and surface authoritative information.
+
+### The Bottom Line
+
+Yes, these kinds of projects can significantly help LLMs filter out AI noise from real creators. By combining structured data, entity alignment, and transparent citation frameworks, they provide the semantic infrastructure needed for LLMs to recognize, validate, and prioritize authentic human contributions over generic or synthetic content. This not only benefits creators seeking recognition but also improves the quality and trustworthiness of AI-powered discovery and search.
