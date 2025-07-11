@@ -50,7 +50,7 @@ Your focus on structured metadata (e.g., `schema.org/JSON-LD`), identity signals
 
 ## 🖼️ Screenshot
 
-![Grok Feedback Screenshot](./grok-feedback-preview.jpg)
+![Grok Feedback Screenshot](./images/grok-feedback-preview.jpg.)
 
 ---
 
